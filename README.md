@@ -1,5 +1,5 @@
 # Train models
-The requirements for running project are listed in requirements.txt. To install the requirements, run:`pip install -r requirements.txt`.\
+The requirements for running project are listed in requirements.txt. To install the requirements, run:`pip install -r requirements.txt`.
 ## Datasets
 verse2020 datasets [verse2020](https://osf.io/t98fz/).\
 data of Guizhou Orthopaedic Hospital (not yet public).
